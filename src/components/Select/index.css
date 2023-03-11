@@ -1,0 +1,52 @@
+.navbar {
+  background-color: #cbd5e1;
+  padding: 20px;
+}
+.website-logo {
+  height: 50px;
+}
+.select {
+  margin-left: 50px;
+  width: 150px;
+}
+.ul-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.failure-image {
+  height: 200px;
+}
+.failure-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.failure-heading {
+  color: #475569;
+  font-weight: bold;
+  font-family: roboto;
+}
+.failure-paragraph {
+  color: #475569;
+  font-family: roboto;
+}
+.retry-button {
+  background-color: #328af2;
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  border-color: transparent;
+  border-radius: 5px;
+  padding: 5px;
+  width: 80px;
+}
+.products-loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

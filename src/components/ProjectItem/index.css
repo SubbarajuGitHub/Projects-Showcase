@@ -1,0 +1,13 @@
+.list-items {
+  list-style-type: none;
+  margin-right: 20px;
+  width: 200px;
+  text-align: center;
+}
+.image {
+  height: 100px;
+}
+.name {
+  color: #475569;
+  font-family: roboto;
+}
